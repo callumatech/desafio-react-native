@@ -2,7 +2,7 @@
 
 ## Instruções
 
-Você possui *uma semana* para fazer o teste. Nesse teste todas as suas habilidades serão avaliadas, dentre elas:
+Nesse teste todas as suas habilidades serão avaliadas, dentre elas:
 
 - Poder de simplificação
 - Autonomia e soluções criativas
