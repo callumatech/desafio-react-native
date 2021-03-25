@@ -37,7 +37,7 @@ Após você implementar o seu app do desafio revisite as suas sugestões e veja 
 
 Você está em uma startup que acabou de pivotar para criar um marketplace de venda de roupas, será necessário um app em React-Native para que tudo comece. Você precisará fazer o mais simples com a melhor qualidade possível!
 
-Inicialmente o app vai precisar de 3 telas, uma home para divulgar produtos, categorias e banners, uma tela de cadastro de produto e uma tela de listagem de produtos.
+Inicialmente o app vai precisar de 2 telas: uma tela de cadastro de produto e uma tela de listagem de produtos.
 
 ### Requisitos
 
@@ -50,11 +50,6 @@ Inicialmente o app vai precisar de 3 telas, uma home para divulgar produtos, cat
   * Padrão de commits com Conventional Commits
   * Commits atômicos
   * Documentação do que você fez e das suas motivações no README
-* Na Home é necessário:
-  * uma caixa para busca no topo
-  * um carrossel com banners
-  * uma vitrine de lojas
-  * duas vitrine de produtos, se possível uma diferente da outra visualmente
 * No Cadastro de Produto é necessário:
   * entradas para nome do produto, preço e URL da foto
   * um botão para salvar o produto
@@ -71,9 +66,8 @@ Inicialmente o app vai precisar de 3 telas, uma home para divulgar produtos, cat
   * Criação de testes com Jest
   * Tratativas de Erro com feedback para o usuário
 
-### Avaliação
+### Importante
 
-* **50%**: Básico
-* **25%**: Home
-* **12,50%**: Cadastro de Produto
-* **12,50%**: Listagem de Produtos
+Esse desafio tem como objetivo conhecermos melhor seu estilo de codificação entes da entrevista técnica, que será pautada no código entregue. Nessa entrevista, iremos falar sobre técnicas de codificação, testes unitários, code review e como você costuma dar soluções simples para suas demandas.
+
+Não se preocupe com o backend! Você pode utilizar mocks simulando a resposta. Sinta-se livre para simular esse retorno.
