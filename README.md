@@ -37,7 +37,7 @@ Após você implementar o seu app do desafio revisite as suas sugestões e veja 
 
 Você está em uma startup que acabou de pivotar para criar um marketplace de venda de roupas, será necessário um app em React-Native para que tudo comece. Você precisará fazer o mais simples com a melhor qualidade possível!
 
-Inicialmente o app vai precisar de 2 telas: uma tela de cadastro de produto e uma tela de listagem de produtos.
+Inicialmente o app vai precisar de 2 telas: uma tela de cadastro de produto e uma tela para listagem desses produtos.
 
 ### Requisitos
 
@@ -51,7 +51,7 @@ Inicialmente o app vai precisar de 2 telas: uma tela de cadastro de produto e um
   * Commits atômicos
   * Documentação do que você fez e das suas motivações no README
 * No Cadastro de Produto é necessário:
-  * entradas para nome do produto, descrição e preço e URL da foto
+  * entradas para nome do produto, descrição, preço e URL da foto
   * um botão para salvar o produto
 * Na Listagem de Produtos é nessário:
   * uma lista que mostre o produto com o nome, descrição, preço e imagem
