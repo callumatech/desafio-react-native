@@ -42,7 +42,7 @@ Inicialmente o app vai precisar de 2 telas: uma tela de cadastro de produto e um
 ### Requisitos
 
 * Básicos
-  * O app deve ser em React-Native
+  * O app deve ser em React-Native / Typescript
   * Simplificar o que deve ser feito mantendo qualidade
   * Implementação de ciclo de vida com React Hooks
   * Uso de biblioteca de componentes estilizados
@@ -51,10 +51,10 @@ Inicialmente o app vai precisar de 2 telas: uma tela de cadastro de produto e um
   * Commits atômicos
   * Documentação do que você fez e das suas motivações no README
 * No Cadastro de Produto é necessário:
-  * entradas para nome do produto, preço e URL da foto
+  * entradas para nome do produto, descrição e preço e URL da foto
   * um botão para salvar o produto
 * Na Listagem de Produtos é nessário:
-  * uma lista que mostre o produto com o nome, preço e imagem
+  * uma lista que mostre o produto com o nome, descrição, preço e imagem
 
 * Você se destacará ainda mais se fizer algum desses pontos:
   * Uso de Redux como fonte única de verdade
@@ -70,4 +70,4 @@ Inicialmente o app vai precisar de 2 telas: uma tela de cadastro de produto e um
 
 Esse desafio tem como objetivo conhecermos melhor seu estilo de codificação entes da entrevista técnica, que será pautada no código entregue. Nessa entrevista, iremos falar sobre técnicas de codificação, testes unitários, code review e como você costuma dar soluções simples para suas demandas.
 
-Não se preocupe com o backend! Você pode utilizar mocks simulando a resposta. Sinta-se livre para simular esse retorno.
+Não se preocupe com o backend! Você pode utilizar mocks simulando a resposta. Sinta-se livre para simular o restorno destes dados.
